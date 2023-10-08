@@ -1,0 +1,1 @@
+exports.input = 'I am a data scientist having an experience of around 1 year and working at xyz company. I have good knowledge in Python, ML, DL, Computer Vision, NLP and generative ai.'
